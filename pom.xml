@@ -80,7 +80,7 @@
                   <execution>
                       <phase>compile</phase>
                        <goals>
-                          <goal>hello1</goal>
+                          <goal>hello</goal>
                       </goals>
                   </execution>
               </executions>
