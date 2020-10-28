@@ -4,7 +4,7 @@
   <parent>
     <artifactId>PrarentProject</artifactId>
     <groupId>fr.imiddleware.projets</groupId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0-RELEASE</version>
   </parent>
 
   <groupId>fr.imiddleware.projets</groupId>
